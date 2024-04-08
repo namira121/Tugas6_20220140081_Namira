@@ -1,0 +1,22 @@
+body{
+    background-image: url(background2.jpg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}
+h1{
+    font-family: 'Times New Roman', Times, serif;
+}
+h2{
+    font-family: 'Times New Roman', Times, serif;
+    letter-spacing: 1px;
+            text-transform:capitalize;
+            text-align: center;
+            border: 2px solid black;
+            background: rgb(234, 177, 187);
+            color:chocolate;
+            box-shadow: 1px 1px 2px salmon;
+            border-radius: 10px;
+            padding: 3px 10px;
+            cursor: pointer;
+}
